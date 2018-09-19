@@ -1,0 +1,14 @@
+D:\harsha853\11SEPT2018\11SEPT2018\bin\Debug\11SEPT2018.exe.config
+D:\harsha853\11SEPT2018\11SEPT2018\bin\Debug\11SEPT2018.exe
+D:\harsha853\11SEPT2018\11SEPT2018\bin\Debug\11SEPT2018.pdb
+D:\harsha853\11SEPT2018\11SEPT2018\obj\Debug\11SEPT2018.csprojAssemblyReference.cache
+D:\harsha853\11SEPT2018\11SEPT2018\obj\Debug\11SEPT2018.csproj.CoreCompileInputs.cache
+D:\harsha853\11SEPT2018\11SEPT2018\obj\Debug\11SEPT2018.exe
+D:\harsha853\11SEPT2018\11SEPT2018\obj\Debug\11SEPT2018.pdb
+D:\harsha853\Practice\11SEPT2018\bin\Debug\11SEPT2018.exe.config
+D:\harsha853\Practice\11SEPT2018\bin\Debug\11SEPT2018.exe
+D:\harsha853\Practice\11SEPT2018\bin\Debug\11SEPT2018.pdb
+D:\harsha853\Practice\11SEPT2018\obj\Debug\11SEPT2018.csproj.CoreCompileInputs.cache
+D:\harsha853\Practice\11SEPT2018\obj\Debug\11SEPT2018.exe
+D:\harsha853\Practice\11SEPT2018\obj\Debug\11SEPT2018.pdb
+D:\harsha853\Practice\11SEPT2018\obj\Debug\11SEPT2018.csprojAssemblyReference.cache

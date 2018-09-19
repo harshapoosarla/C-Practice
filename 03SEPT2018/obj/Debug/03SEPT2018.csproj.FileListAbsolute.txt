@@ -1,0 +1,2 @@
+D:\harsha853\Practice\03SEPT2018\obj\Debug\03SEPT2018.csprojAssemblyReference.cache
+D:\harsha853\Practice\03SEPT2018\obj\Debug\03SEPT2018.csproj.CoreCompileInputs.cache
